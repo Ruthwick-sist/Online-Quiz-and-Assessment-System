@@ -1,0 +1,80 @@
+Which of the following is true about an abstract class in Java?
+A. An abstract class can be instantiated directly.
+B. An abstract class can contain both abstract and non-abstract methods.
+C. All methods in an abstract class must be abstract.
+D. An abstract class cannot have a constructor.
+
+In Java, we can make a class abstract by:
+A. Declaring it abstract using the abstract keyword.
+B. Making at least one method final.
+C. Declaring all methods as static.
+D. Declaring at least one method as abstract.
+
+Type IV JDBC driver is a driver:
+A. which is written in C++
+B. which requires an intermediate layer
+C. which communicates through Java sockets
+D. which translates JDBC function calls into API not native to DBMS
+
+Which of the following is used to determine the length of an array in Java?
+A. arr.length();
+B. arr.size;
+C. arr.length;
+D. arr.count();
+
+What happens if you access an invalid index of an array in Java?
+A. ArrayIndexOutOfBoundsException
+B. NullPointerException
+C. Segmentation Fault
+D. No Error
+
+What will be the output of the following program?
+int[][] matrix = {
+    {1, 2, 3},
+    {4, 5, 6},
+    {7, 8, 9}
+};
+System.out.println(matrix[1][2]);
+A. 4
+B. 5
+C. 6
+D. 9
+
+What is the default value of an integer array in Java?
+A. null
+B. 0
+C. garbage value
+D. depends on JVM
+
+How can you correctly initialize a 2D array in Java?
+A. int[][] arr = new int(3,3);
+B. int arr[][] = {{1,2}, {3,4}};
+C. int arr[][] = new int[2][2]{{1,2}, {3,4}};
+D. int arr[2][2] = {1,2,3,4};
+
+Which data type is best for storing the ASCII value of a character?
+A. char
+B. byte
+C. int
+D. short
+
+Which of the following is a valid declaration of a float data type?
+A. float f = 10.5;
+B. float f = 10.5f;
+C. float f = "10.5";
+D. float f = (10.5);
+
+What will be the output of this code?
+int a = 7;
+double b = 2;
+System.out.println(a / b);
+A. 3
+B. 3.5
+C. 3.0
+D. Error
+
+What is the default value of a boolean in Java?
+A. true
+B. false
+C. null
+D. 0
